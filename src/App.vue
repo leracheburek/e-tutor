@@ -1,11 +1,11 @@
 <script setup>
-import HeaderStorge from './components/HeaderStorge.vue'
+import Navbar from './components/Navbar.vue'
 import HeroSection from './components/HeroSection.vue';
 </script>
 
 <template>
     <div>
-        <HeaderStorge />
+        <Navbar />
         <HeroSection />
     </div>
 </template>
