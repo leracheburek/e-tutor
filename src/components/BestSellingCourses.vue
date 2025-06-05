@@ -8,7 +8,6 @@
             <!-- перший рядок -->
             <div class="flex gap-[25px]">
 
-                <div class="w-[244px] h-[333px] bg-white ">
                     <div class="w-[244px] h-[333px] bg-white">
                         <img src="../assets/img/Course1.svg" alt="Course1">
                         <div class="flex justify-between items-center px-[14px] mt-[14px]">
@@ -28,10 +27,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
 
 
-                <div class="w-[244px] h-[333px] bg-white flex gap-[25px]">
                     <div class="w-[244px] h-[333px] bg-white">
                         <img src="../assets/img/Course2.svg" alt="Course1">
                         <div class="flex justify-between items-center px-[14px] mt-[14px]">
@@ -52,10 +49,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
 
 
-                <div class="w-[244px] h-[333px] bg-white flex gap-[25px]">
                     <div class="w-[244px] h-[333px] bg-white">
                         <img src="../assets/img/Course3.svg" alt="Course1">
                         <div class="flex justify-between items-center px-[14px] mt-[14px]">
@@ -75,10 +70,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
 
 
-                <div class="w-[244px] h-[333px] bg-white flex gap-[25px]">
                     <div class="w-[244px] h-[333px] bg-white">
                         <img src="../assets/img/Course4.svg" alt="Course1">
                         <div class="flex justify-between items-center px-[14px] mt-[14px]">
@@ -98,10 +91,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
 
 
-                <div class="w-[244px] h-[333px] bg-white flex gap-[25px]">
                     <div class="w-[244px] h-[333px] bg-white">
                         <img src="../assets/img/Course5.svg" alt="Course1">
                         <div class="flex justify-between items-center px-[14px] mt-[14px]">
@@ -121,7 +112,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
 
             </div>
 
@@ -129,7 +119,6 @@
            <!-- другий рядок -->
             <div class="flex gap-[25px] mt-[25px]">
 
-                <div class="w-[244px] h-[333px] bg-white ">
                     <div class="w-[244px] h-[333px] bg-white">
                         <img src="../assets/img/Course6.svg" alt="Course1">
                         <div class="flex justify-between items-center px-[14px] mt-[14px]">
@@ -149,10 +138,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
 
 
-                <div class="w-[244px] h-[333px] bg-white ">
                     <div class="w-[244px] h-[333px] bg-white">
                         <img src="../assets/img/Course7.svg" alt="Course1">
                         <div class="flex justify-between items-center px-[14px] mt-[14px]">
@@ -172,10 +159,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
 
 
-                <div class="w-[244px] h-[333px] bg-white ">
                     <div class="w-[244px] h-[333px] bg-white">
                         <img src="../assets/img/Course8.svg" alt="Course1">
                         <div class="flex justify-between items-center px-[14px] mt-[14px]">
@@ -195,10 +180,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
 
 
-                <div class="w-[244px] h-[333px] bg-white ">
                     <div class="w-[244px] h-[333px] bg-white">
                         <img src="../assets/img/Course9.svg" alt="Course1">
                         <div class="flex justify-between items-center px-[14px] mt-[14px]">
@@ -218,10 +201,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
 
 
-                <div class="w-[244px] h-[333px] bg-white ">
                     <div class="w-[244px] h-[333px] bg-white">
                         <img src="../assets/img/Course10.svg" alt="Course1">
                         <div class="flex justify-between items-center px-[14px] mt-[14px]">
@@ -241,7 +222,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
 
             </div>
 
