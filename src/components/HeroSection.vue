@@ -1,15 +1,11 @@
 <template>
-    <section class="flex justify-between items-center" >
-        <div class="max-w-[1200px] mx-auto">
-            <div class="flex flex-col gap-[32px] mt-[175px]">
-                <h1 class="font-poppins text-[75px] leading-[95px] font-[600]">Turn your ideas<br/>into a Startup</h1>
-                <p class="font-poppins text-[16px] font-[400] text-[#858484] leading-[28px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do<br/> eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                <div class="flex gap-[56px]">
-                    <button class=" bg-[#377DFF] text-white w-[200px] h-[60px] rounded-[10px] border-none font-[600]">WORK WITH US</button>
-                    <button class="text-[#377DFF] font-[600]">LEARN MORE</button>
-                </div>
-            </div>
+    <section class="flex justify-between items-center">
+        <div class="ml-[300px] flex flex-col gap-[40px]">
+            <h1 class="text-[72px] leading-[74px] font-semibold">Learn with expert<br />anytime anywhere</h1>
+            <p class="text-[24px] leading-[32px] text-[#4E5566] font-normal">Our mision is to help people to find the best course<br />
+                online and learn with expert anytime, anywhere.</p>
+            <button class="w-[198px] h-[56px] bg-[#FF6636] text-[18px] text-white  font-semibold">Create Account</button>
         </div>
-            <img src="../assets/img/brooke-cagle.svg" alt="brooke-cagle">
+        <img src="../assets/img/hero-img.svg" alt="hero-img">
     </section>
 </template>
