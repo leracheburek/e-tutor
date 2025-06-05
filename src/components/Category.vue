@@ -98,7 +98,7 @@
             </div>
         </div>
 
-        <div class="flex justify-center items-center gap-[12px] mb-[80px]">
+        <div class="flex justify-center items-center gap-[12px] mb-[80px]" >
             <p class="text-[14px] text-[#4E5566]">We have more category & subcategory.</p>
             <button class="w-[101px] h-[32px] flex gap-[8px] text-[14px] items-center font-medium text-[#FF6636]">Browse All
             <img class="w-[24px] h-[24px]" src="../assets/img/ArrowRight.svg" alt="ArrowRight">
