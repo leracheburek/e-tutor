@@ -1,12 +1,21 @@
+<script setup>
+import {ref} from 'vue'
+
+const items =ref([
+    'Home',
+    'Courses',
+    'About',
+    'Contact',
+    'Become an Instructor'
+])
+</script>
+
+
 <template>
     <header>
         <div class="flex justify-between items-center bg-black py-[16px] px-[48px]">
             <ul class="flex gap-[24px]">
-                <li class="text-white text-[14px] font-medium">Home</li>
-                <li class="text-[#8C94A3] text-[14px] font-medium">Courses</li>
-                <li class="text-[#8C94A3] text-[14px] font-medium">About</li>
-                <li class="text-[#8C94A3] text-[14px] font-medium">Contact</li>
-                <li class="text-[#8C94A3] text-[14px] font-medium">Become an Instructor</li>
+                <li v-for="item in items" class="text-white text-[14px] font-medium">{{ item }}</li>
             </ul>
             <div class="flex gap-[24px]">
                 <button class="text-[#8C94A3] text-[14px] font-normal">USD</button>

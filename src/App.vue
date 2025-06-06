@@ -3,6 +3,7 @@ import Navbar from './components/Navbar.vue';
 import HeroSection from './components/HeroSection.vue';
 import Category from './components/Category.vue';
 import BestSellingCourses from './components/BestSellingCourses.vue';
+import OurFeatureCourses from './components/OurFeatureCourses.vue';
 </script>
 
 <template>
@@ -11,5 +12,6 @@ import BestSellingCourses from './components/BestSellingCourses.vue';
     <HeroSection />
     <Category />
     <BestSellingCourses />
+    <OurFeatureCourses />
     </div>
 </template>
